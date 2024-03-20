@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diogo Alberto</h1>
 <h3 align="center">Passionate about technology and new knowledge</h3>
 
-- 🔭 I’m currently working on **Data Foreacast with Python**
+- 🔭 I’m currently working on **Development two apps Flutter**
 
-- 🌱 I’m currently learning **Python, Laravel and Formation PERN Stack**
+- 🌱 I’m currently learning **Flutter and Vue.js**
 
-- 💬 Ask me about **JavaScript, PHP and React**
+- 💬 Ask me about **JavaScript, PHP and Flutter**
 
 - 📫 How to reach me **kirchoffalberto@gmail.com**
 
