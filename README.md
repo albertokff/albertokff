@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Development two apps Flutter**
 
-- 🌱 I’m currently learning **Flutter and Vue.js**
+- 🌱 I’m currently learning **Flutter and GO**
 
-- 💬 Ask me about **JavaScript, PHP and Flutter**
+- 💬 Ask me about **JavaScript, PHP, Flutter and Vue.JS**
 
 - 📫 How to reach me **kirchoffalberto@gmail.com**
 
