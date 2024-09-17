@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diogo Alberto</h1>
 <h3 align="center">Passionate about technology and new knowledge</h3>
 
-- 🔭 I’m currently working on **Development two apps Flutter, two systems in Vue.JS and one in Laravel**
+- 🔭 I’m currently working on **Development two apps Flutter, two systems in Vue.JS, one in Laravel and other in Nuxt!**
 
-- 🌱 I’m currently learning **Flutter, Laravel and Vue.JS**
+- 🌱 I’m currently learning **Flutter, Laravel, Vue.JS and Nuxt**
 
 - 💬 Ask me about **JavaScript, PHP, Flutter and Vue.JS**
 
