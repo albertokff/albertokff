@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diogo Alberto</h1>
 <h3 align="center">Passionate about technology and new knowledge</h3>
 
-- 🔭 I’m currently working on **Development two apps Flutter, two systems in Vue.JS, one in Laravel and other in Nuxt!**
+- 🔭 I’m currently working on **Development app Kotlin!**
 
-- 🌱 I’m currently learning **Flutter, Laravel, Vue.JS and Nuxt**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **JavaScript, PHP, Flutter and Vue.JS**
+- 💬 Ask me about **Kotlin, JavaScript, PHP, Flutter, React Native, and Vue.JS**
 
-- 📫 How to reach me **kirchoffalberto@gmail.com**
+- 📫 How to reach me **dev.albertokff@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/diogo-alberto-ribeiro-kirchoff-b054b51a3](www.linkedin.com/in/diogo-alberto-ribeiro-kirchoff-b054b51a3)
 
