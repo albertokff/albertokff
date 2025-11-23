@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Diogo Alberto</h1>
-<h3 align="center">Passionate about technology and new knowledge</h3>
+<h1 align="center">👋 Olá, eu sou o Diogo Alberto</h1>
+<h3 align="center">Desenvolvedor Android | Kotlin 🚀</h3>
 
-- 🔭 I’m currently working on **Development app Kotlin!**
+💻 **Desenvolvedor mobile focado em aplicações nativas Android com Kotlin**, aplicando boas práticas, arquitetura limpa, componentes Jetpack e integração sólida com APIs.
 
-- 🌱 I’m currently learning **Kotlin**
+📱 Atualmente trabalho diariamente com **Android + Kotlin**, desenvolvendo aplicativos reais e aprimorando conhecimentos em:
+- Jetpack Compose & padrões de UI
+- MVVM / Clean Architecture
+- Retrofit, Coroutines & Flow
+- Room, DataStore & aplicações offline-first
+- Firebase & notificações push
 
-- 💬 Ask me about **Kotlin, JavaScript, PHP, Flutter, React Native, and Vue.JS**
+🔧 Também possuo experiência com **backend e web**, o que me dá uma forte base para trabalhar com APIs, autenticação e integrações entre mobile e servidor (Laravel, Node.js, Docker, MySQL).
 
-- 📫 How to reach me **dev.albertokff@gmail.com**
+📬 Contato: **dev.albertokff@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/diogo-alberto-ribeiro-kirchoff-b054b51a3](www.linkedin.com/in/diogo-alberto-ribeiro-kirchoff-b054b51a3)
+🌐 LinkedIn: **www.linkedin.com/in/diogo-alberto-ribeiro-kirchoff-b054b51a3**
 
-- 📚 I like read about History, General and of Brazil.
+📚 Fora da programação, gosto de ler sobre **História (do Brasil e Geral)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
